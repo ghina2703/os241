@@ -1,0 +1,12 @@
+version: "0002--06-Feb-2024"
+author: "ghina2703"
+title: "OS241: Operating Systems 2024-1"
+version:      "06-Feb-2024"
+copyright:    "2024"
+name:         "Ghina Nabila Gunawan"
+githublink: "https://github.com/ghina2703/os241"
+githubpagelink: "https://ghina2703.github.io/os241/"
+loglink: "/TXT/mylog.txt"
+encoding: "UTF-8"
+copyright: "2024"
+github: [metadata]
