@@ -15,7 +15,7 @@ Name:           Ghina Nabila Gunawan
 <br>
 Student ID:     2206825914
 <br>
-<span style="color:blue; font-weight:bold; font-size:larger;"><i>Have A Nice Day!</i></span>
+<span style="color:blue; font-weight:bold; font-size:larger;"><i>Have A Great Day!</i></span>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
