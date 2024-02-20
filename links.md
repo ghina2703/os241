@@ -24,6 +24,18 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [The Complete Linux Course: Beginner to Power User](https://youtu.be/wBp0Rb-ZJak?si=v1XGOpE1bsiMOtbr)
 -> This YouTube playlist offers a course covering Linux from beginner to advanced levels, spanning over 7 hours of content. It covers topics ranging from basic commands to shell scripting and system administration.
 
+<h2 style="color:red">WEEK 02 🚩</h2>
+
+1. [Encryption and public keys](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/the-internet-encryption-and-public-keys)
+-> The Khan Academy video explains the essentials of internet encryption, including the roles of public and private keys. It outlines SSL and HTTPS protocols that keep online data transfer secure, using public key cryptography which allows secure communication over the open internet without the need for a shared secret key.
+
+2. [GNU Privacy Guard Guide](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)
+-> The article serves as a tutorial on GnuPG, discussing key creation, passphrase security, and keyring management in a user-friendly format.
+
+3. [Public and Private Key Blog](https://www.preveil.com/blog/public-and-private-key/)
+-> The blog post outlines the fundamentals of asymmetric cryptography, emphasizing the use of public keys for encryption and private keys for decryption in secure communications.
+
+
 <br>
 <hr>
 
