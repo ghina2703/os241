@@ -35,6 +35,17 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [Public and Private Key Blog](https://www.preveil.com/blog/public-and-private-key/)
 -> The blog post outlines the fundamentals of asymmetric cryptography, emphasizing the use of public keys for encryption and private keys for decryption in secure communications.
 
+<h2 style="color:red">WEEK 03 🚩</h2>
+
+1. [Makefile Tutorial by Example](https://makefiletutorial.com/)
+-> This website offers a comprehensive guide to understanding and writing Makefiles, crucial for automating the compilation process in software development. It breaks down complex concepts into digestible examples, focusing on C/C++ compilation use cases but applicable to various programming scenarios.
+
+2. [Mounting and Unmounting Disks/Partitions](https://youtu.be/F-a_BBAGfkE?si=Ao7QWAHwqAm9MpnS)
+-> This course covers the basics of Unix/Linux commands that allow users to view and edit text files, obtain hardware and system information, partitioning and formatting, process related commands, manipulating disks and partitions, imaging, archiving, logical acquisition, live system response, and basic networking.
+
+3. [FUSE (Filesystem in Userspace) Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+-> Official documentation for FUSE, a system that allows for custom file systems to be developed and run in user space. It details how FUSE works, its API, and provides guidance for developers on creating their own filesystems with it.
+
 
 <br>
 <hr>
