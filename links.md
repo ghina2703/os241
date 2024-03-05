@@ -46,6 +46,15 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [FUSE (Filesystem in Userspace) Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
 -> Official documentation for FUSE, a system that allows for custom file systems to be developed and run in user space. It details how FUSE works, its API, and provides guidance for developers on creating their own filesystems with it.
 
+<h2 style="color:red">WEEK 04 🚩</h2>
+1. [Introduction to Pointers in C](https://youtu.be/f2i0CnUOniA?si=25NrFo8aG3WhUeD-)
+-> This subject is central to understanding C and C++ programming languages. The video or article cover the basics of pointers, including pointer arithmetic, the relationship between pointers and arrays, and the use of pointers with functions and structures.
+
+2. [Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+-> This topic explain the differences between static and dynamic libraries in Linux, a key concept in software development. The article cover the basics of pointers, including pointer arithmetic, the relationship between pointers and arrays, and the use of pointers with functions and structures.
+
+3. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=9XxIvUA0XhOEzQoK)
+-> This video describes how a segmented memory management system employs segments of different sizes. Concepts such as logical and physical memory are explained, as well as the use of secondary storage to provide virtual memory. 
 
 <br>
 <hr>
