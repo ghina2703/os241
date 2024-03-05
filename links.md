@@ -51,7 +51,7 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 -> This subject is central to understanding C and C++ programming languages. The video or article cover the basics of pointers, including pointer arithmetic, the relationship between pointers and arrays, and the use of pointers with functions and structures.
 
 2. [Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
--> This topic explain the differences between static and dynamic libraries in Linux, a key concept in software development. The article cover the basics of pointers, including pointer arithmetic, the relationship between pointers and arrays, and the use of pointers with functions and structures.
+-> This topic explain the differences between static and dynamic libraries in Linux, a key concept in software development. The content would likely explain how to create, use, and manage these libraries, and the advantages and disadvantages of each type.
 
 3. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=9XxIvUA0XhOEzQoK)
 -> This video describes how a segmented memory management system employs segments of different sizes. Concepts such as logical and physical memory are explained, as well as the use of secondary storage to provide virtual memory. 
