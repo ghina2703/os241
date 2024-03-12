@@ -56,6 +56,16 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=9XxIvUA0XhOEzQoK)
 -> This video describes how a segmented memory management system employs segments of different sizes. Concepts such as logical and physical memory are explained, as well as the use of secondary storage to provide virtual memory. 
 
+<h2 style="color:red">WEEK 05 🚩</h2>
+1. [What is Virtual Memory?](https://youtu.be/2quKyPnUShQ?si=1dbEtRdRszZlear2)
+-> The video explains fundamental aspects of virtual memory in computers, like the MMU, virtual addresses, and paging. It highlights how virtual addresses are mapped to physical memory addresses.
+
+2. [Everything You Need to Know About Kernel Panics](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/)
+-> When encountering a "kernel panic" rebooting error, it's a measure taken by the OS to prevent further damage. This article provides safeguards to the system integrity.
+
+3. [What is Thrash?](https://www.javatpoint.com/what-is-thrash#:~:text=Thrashing%20is%20when%20the%20page,to%20be%20reduced%20or%20negligible.)
+-> This article explains when we experience a page fault where a process tries to access a memory page that has not been prepared or is not in RAM, prompting the operating system to retrieve the page from secondary storage and swap it into RAM. This becomes problematic when such swapping occurs too frequently, leading to a state where the operating system is more engaged in managing memory than executing processes. 
+
 <br>
 <hr>
 
