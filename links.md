@@ -66,6 +66,16 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [What is Thrash?](https://www.javatpoint.com/what-is-thrash#:~:text=Thrashing%20is%20when%20the%20page,to%20be%20reduced%20or%20negligible.)
 -> This article explains when we experience a page fault where a process tries to access a memory page that has not been prepared or is not in RAM, prompting the operating system to retrieve the page from secondary storage and swap it into RAM. This becomes problematic when such swapping occurs too frequently, leading to a state where the operating system is more engaged in managing memory than executing processes. 
 
+<h2 style="color:red">WEEK 06 🚩</h2>
+1. [Process Management (Process and Threads) - Neso Academy](https://youtu.be/OrM7nZcxXZU)
+This video is an educational resource that explains process management, focusing on the concepts of processes and threads, making it easier to focus on the fundamentals of how computer processes are managed.
+
+2. [Concurrency vs Parallelism: A Brief Review](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
+This article provides an overview of concurrency and parallelism in computing, highlighting the differences between the two and explaining multithreading to deepen understanding of processes.
+
+3. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+This article from Michigan Technological University offers an in-depth explanation of the fork() function in C, including how it works, with code examples and visual aids to aid comprehension of process creation in programming.
+
 <br>
 <hr>
 
