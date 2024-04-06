@@ -68,13 +68,13 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 
 <h2 style="color:red">WEEK 06 🚩</h2>
 1. [Process Management (Process and Threads) - Neso Academy](https://youtu.be/OrM7nZcxXZU)
-This video is an educational resource that explains process management, focusing on the concepts of processes and threads, making it easier to focus on the fundamentals of how computer processes are managed.
+-> This video is an educational resource that explains process management, focusing on the concepts of processes and threads, making it easier to focus on the fundamentals of how computer processes are managed.
 
 2. [Concurrency vs Parallelism: A Brief Review](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
-This article provides an overview of concurrency and parallelism in computing, highlighting the differences between the two and explaining multithreading to deepen understanding of processes.
+-> This article provides an overview of concurrency and parallelism in computing, highlighting the differences between the two and explaining multithreading to deepen understanding of processes.
 
 3. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
-This article from Michigan Technological University offers an in-depth explanation of the fork() function in C, including how it works, with code examples and visual aids to aid comprehension of process creation in programming.
+-> This article from Michigan Technological University offers an in-depth explanation of the fork() function in C, including how it works, with code examples and visual aids to aid comprehension of process creation in programming.
 
 <br>
 <hr>
