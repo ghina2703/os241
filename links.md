@@ -76,6 +76,16 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
 -> This article from Michigan Technological University offers an in-depth explanation of the fork() function in C, including how it works, with code examples and visual aids to aid comprehension of process creation in programming.
 
+<h2 style="color:red">WEEK 07 🚩</h2>
+1. [What is Deadlock](https://youtu.be/onkWXaXAgbY?si=TPLIcvOAmz_efuEu)
+-> This video explains deadlocks in operating systems with an analogy of two trains unable to pass each other on the same track, illustrating how processes can stall when they block each other from accessing necessary resources.
+
+2. [What is a semaphore?](https://youtu.be/ukM_zzrIeXs?si=d9nfj2dnmeFF_nIt)
+-> The video introduces semaphores as tools for managing access to shared resources in concurrent programming, helping to prevent problems like deadlock.
+
+3. [Process Synchronization in Operating System](https://youtu.be/9Uw1HXy8f7w?si=YjTKAE04jA08p73d)
+-> It likely discusses how different synchronization techniques ensure that multiple processes can operate smoothly and efficiently without interfering with each other.
+
 <br>
 <hr>
 
