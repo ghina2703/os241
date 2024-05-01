@@ -86,6 +86,17 @@ Hello! Welcome to the Links Part of my GitHub Page for Operating Systems 2024-1
 3. [Process Synchronization in Operating System](https://youtu.be/9Uw1HXy8f7w?si=YjTKAE04jA08p73d)
 -> It likely discusses how different synchronization techniques ensure that multiple processes can operate smoothly and efficiently without interfering with each other.
 
+<h2 style="color:red">WEEK 08 🚩</h2>
+1. [CPU Scheduling Basics](https://youtu.be/Jkmy2YLUbUY?si=oEuc10rtpRS6xa3-)
+-> This YouTube video by Jacob Sorber provides an introduction to the basic concepts of CPU scheduling in computer science. It includes detailed examples to help clarify these concepts.
+
+2. [What is Process Scheduling in OS?](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm#:~:text=Definition,of%20a%20Multiprogramming%20operating%20systems.)
+-> This TutorialsPoint page offers a detailed discussion on process scheduling within operating systems, covering different types of queues like Job Queue and Ready Queue, and explaining the Two-State Process Model.
+
+3. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+-> This video outlines the structure of the Linux file system, explaining the purpose and contents of various directories within the Linux base directory.
+
+
 <br>
 <hr>
 
